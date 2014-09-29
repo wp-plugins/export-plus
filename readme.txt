@@ -40,16 +40,16 @@ No - it adds a secondary export page that you can use instead of WordPress' buil
 
 == Screenshots ==
 
-1. The export tool provided by this plugin with a few custo post types included.
+1. The export tool provided by this plugin with a few custom post types included.
 
 == Changelog ==
 
 = 1.0 =
-* 2014-09-24
+* 2014-09-29
 * Initial release #boom
 
 == Upgrade Notice ==
 
 = 1.0 =
-* 2014-09-24
+* 2014-09-29
 * Initial release #boom
